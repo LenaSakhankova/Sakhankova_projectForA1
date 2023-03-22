@@ -1,7 +1,7 @@
 public class Factorial{
 
     public static void main(String[] args) {
-        int n = 66; // Indef if n > 66
+        int n = 65; // Indef if n > 66
         un(n);
     }
 
